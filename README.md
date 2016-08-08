@@ -9,8 +9,11 @@ Starter code for transpiling ES2015 (including modules) with Babel, Gulp and Bro
 
 # Using
 
-Run `gulp` from the command line and you are good to go!
+- Run `gulp` from the command line and you are good to go!
 
 The project is currently setup to transpile code under the _/src_ folder using the
 _/src/app.js_ file as an entry point.
+
+- Run `gulp watch` from CLI to automatically transpile code from /src/ to /dist/ 
+after a modification
 
