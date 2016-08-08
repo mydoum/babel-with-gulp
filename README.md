@@ -2,12 +2,10 @@
 
 Starter code for transpiling ES2015 (including modules) with Babel, Gulp and Browserify.
 
-
 # Installing
 
 1. Clone the repo
-2. `npm install -g gulp` to install Gulp globally.
-3. `npm install` to resolve project dependencies.
+2. `npm rebuild` to install Gulp globally.
 
 # Using
 
